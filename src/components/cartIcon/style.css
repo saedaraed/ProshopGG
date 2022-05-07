@@ -1,0 +1,46 @@
+.cnt span {
+    font-size: 5px;
+    margin-top: 10px;
+}
+
+.cnt {
+    display: flex;
+    /* background-color: aqua; */
+    width: 50px;
+    height: 30px;
+    position: relative;
+}
+
+.CartIcon a {
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+}
+
+.cnt .circle {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    position: relative;
+    margin-left: -5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cnt .circle .badge {
+    color: rgb(254, 13, 13);
+    font-size: medium;
+    font-weight: bold;
+    margin-top: -2px;
+    position: absolute;
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+    /* background-color: aquamarine; */
+    /* top: -5px;
+    right: 10px; */
+    /* right: 5px; */
+    /* padding: 5px; */
+}

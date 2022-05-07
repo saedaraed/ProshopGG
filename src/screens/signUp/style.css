@@ -1,0 +1,12 @@
+.sign .container {
+    margin-top: 50px;
+}
+
+.sign .container .form {
+    width: 70%;
+}
+
+.sign .row img {
+    width: 100%;
+    margin: 0 auto;
+}

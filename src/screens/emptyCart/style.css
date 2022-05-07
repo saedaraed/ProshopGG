@@ -1,0 +1,9 @@
+.empty {
+    margin-top: 50px;
+}
+
+.empty p {
+    color: #242424;
+    font-size: 25px;
+    font-weight: bold;
+}

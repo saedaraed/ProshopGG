@@ -1,0 +1,47 @@
+.card {
+    /* width: 32%; */
+    height: 455px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    overflow: hidden;
+    padding: 30px 10px;
+    border: none;
+    /* margin-top: 20px; */
+}
+
+.card .add {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 42px;
+    gap: 10px;
+}
+
+.card .add button {
+    border: none;
+}
+
+.card img {
+    /* width: 60%; */
+    margin: 0 auto;
+    height: 50%;
+    /* object-fit: cover; */
+}
+
+.card p {
+    font-size: 18px;
+    color: #242424;
+}
+
+.card h5 {
+    color: #242424;
+    font-size: 20px;
+    margin: 15px 0px;
+    /* padding: 0; */
+}
+
+.card-title {
+    text-decoration: none;
+    color: #242424;
+}

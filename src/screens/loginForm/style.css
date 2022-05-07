@@ -1,0 +1,12 @@
+.Login .container {
+    margin-top: 50px;
+}
+
+.Login .container .form {
+    width: 70%;
+}
+
+.Login .row img {
+    width: 100%;
+    margin: 0 auto;
+}

@@ -1,0 +1,17 @@
+.productDetails {
+    margin-top: 50px;
+    text-align: left;
+}
+
+.productDetails .tit {
+    justify-content: space-between;
+}
+
+.productDetails .price {
+    font-weight: bolder;
+    font-size: 20px;
+    color: #000;
+}
+
+
+/* */

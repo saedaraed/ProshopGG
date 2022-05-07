@@ -1,0 +1,13 @@
+.ItemNav {
+    display: flex;
+}
+
+.ItemNav div {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 20px;
+}
